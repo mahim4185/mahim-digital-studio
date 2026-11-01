@@ -1,17 +1,17 @@
-MAHIM DIGITAL STUDIO — STARTER WEBSITE
+MAHIM DIGITAL STUDIO — UPDATED PORTFOLIO
+Included: index.html
 
-Contact details already added:
-- Email: mahimhossin78@gmail.com
-- WhatsApp: +880 1346-261152
+HOW TO UPDATE YOUR EXISTING GITHUB PAGES WEBSITE
+1. Open https://github.com/mahim4185/mahim-digital-studio
+2. Open the root index.html file.
+3. Choose Edit (pencil), or upload and replace the file.
+4. Replace its contents with this package's index.html and commit changes.
+5. Wait a few minutes, then visit:
+   https://mahim4185.github.io/mahim-digital-studio/
 
-Files:
-- index.html: responsive one-page portfolio website.
-
-Before publishing:
-1. Review your contact details and test the Email and WhatsApp buttons.
-2. Replace the sample portfolio concepts with genuine work samples as your portfolio grows.
-3. Do not claim sample concepts are completed client projects.
-4. Publish the folder using a static hosting provider (for example GitHub Pages, Cloudflare Pages, or Netlify).
-
-Important:
-This is a starter portfolio template, not a live published website. It does not include a backend, customer login, payment processing, or admin dashboard.
+IMPORTANT
+- Keep your other demo repositories; do not delete them.
+- Northstar link assumes repository name northstar-business-demo. If yours differs, edit that URL in index.html before publishing.
+- Nova Café, Northstar Business, and FORMA Store are demo concepts, not paid client projects.
+- Static website only: no backend, login, real payment processing, or order database.
+- Contact: WhatsApp +8801346261152; email mahimhossin78@gmail.com.
